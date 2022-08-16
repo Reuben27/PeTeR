@@ -18,3 +18,8 @@ peter = PeTeR()
 # Call the says method
 result = peter.says(-42069)
 ```
+
+### Contributors
+ - [Paras Gupta](https://github.com/paras-gupt)
+ - [Tarun Sharma](https://github.com/tarun2001sharma)
+ - [Reuben Devanesan](https://github.com/Reuben27)

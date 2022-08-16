@@ -15,8 +15,8 @@ with open(path.join(HERE, 'README.md'), encoding='utf-8') as f:
 # This call to setup() does all the work
 setup(
   name="peter_69",
-  version="0.1.3",
-  description="Demo library",
+  version="0.1.4",
+  description="A small demo library that describes the input number through PeTeR.",
   long_description_content_type="text/markdown",
   long_description=long_description,
   url="https://peter-69.readthedocs.io/",
